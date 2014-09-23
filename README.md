@@ -7,5 +7,5 @@ The goal of the tutorial is to build a Table with a list banks stored on a SQLit
 
 
 
-![alt tag](https://github.com/giria/FailedBanks/images/Screenshot 2014-09-23 18.55.55.png)
+![alt tag](https://github.com/giria/FailedBanks/blob/master/images/Screenshot%202014-09-23%2018.55.55.png)
 
