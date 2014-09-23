@@ -7,5 +7,5 @@ The goal of the tutorial is to build a Table with a list banks stored on a SQLit
 
 
 
-![alt tag](https://www.dropbox.com/s/w77uddiamkegunp/Screenshot%202014-09-23%2018.55.55.png?dl=0)
+![alt tag](https://www.flickr.com/photos/anon6be6/15330113931/)
 
